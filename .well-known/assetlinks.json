@@ -1,0 +1,14 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "web",
+    "site": "https://rhashimoto.github.io"
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shoestringresearch.videoboard",
+    "sha256_cert_fingerprints": ["0B:98:6C:BC:0D:2B:23:67:B2:6E:3B:55:35:9B:CF:FE:8B:D1:DC:66:8E:58:BC:45:73:B9:80:08:7D:F3:12:7C"]
+  }
+}]
